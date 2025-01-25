@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(18, 19, 18);
+}
+
+.cabecalho{
+    background-color: rgb(28, 29, 28);
+    padding: 15px;
+    text-align: center;
+}
+
+.titulo{
+    font-size: 48px;
+    color: darkred;
+    letter-spacing: 2px;
+}
+
+.cabecalho_lista{
+    list-style: none;
+
+}
+
+.cabecalho_lista li{
+    margin: 30px;
+    
+}
+
+.cabecalho_lista a{
+    color: brown;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: Verdana;
+    background-color: black;
+    padding: 11px;
+    border-radius: 25px;
+}
+
+.cabecalho_lista a:hover{
+    background-color: transparent;
+    border: 3px solid black;
+    color: brown
+}
+
+.principal{
+    background-color: azure;
+    padding: 30px;
+}
+
+.subtitulo{
+    color:darkred;
+    background-color: rgb(28, 29, 28);
+    padding: 20px;
+    text-align: center;
+    font-size: 36px;
+    border-radius: 10px;
+}
+
+.foto{
+    width: 1000px;
+    
+}
+
+.texto{
+    color: aliceblue;
+    line-height: 1.6;
+    font-style: italic;
+    word-spacing: 2px;
+}
+
+.destaque{
+    color: brown;
+    text-decoration: underline;
+}
+
+.link{
+    text-decoration: none;
+    color:rgb(168, 14, 14);
+    background-color: rgb(28, 29, 28);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.lista_materias{
+    list-style: lower-alpha;
+    color: aliceblue;
+}
+
+.rodape{
+    background-color: rgb(28, 29, 28);
+    text-align: center;
+}
+
+.rodape p{
+    font-size: 24px;
+    letter-spacing: 5px;
+}
